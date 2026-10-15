@@ -20,9 +20,19 @@ function port(name: string, fallback: number): number {
   return value;
 }
 
+function jwtSecret(nodeEnv: string): string {
+  const value = process.env.JWT_SECRET;
+
+  if (value) return value;
+  if (nodeEnv !== "production") return "development-only-jwt-secret";
+
+  throw new Error("Missing required environment variable: JWT_SECRET");
+}
+
 export const config = {
   nodeEnv: process.env.NODE_ENV ?? "development",
   port: port("PORT", 3000),
+  jwtSecret: jwtSecret(process.env.NODE_ENV ?? "development"),
   db: {
     host: required("DB_HOST"),
     port: port("DB_PORT", 5432),

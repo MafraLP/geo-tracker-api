@@ -1,11 +1,8 @@
-import Fastify from "fastify";
-
+import { buildApp } from "./app";
 import { config } from "./config";
 import { closeDatabase } from "./db/client";
 
-const app = Fastify({ logger: true });
-
-app.get("/health", async () => ({ status: "ok" }));
+const app = buildApp();
 
 async function start(): Promise<void> {
   await app.listen({ host: "0.0.0.0", port: config.port });
