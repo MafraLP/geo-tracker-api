@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440">
+  <title>GeoTracker API — real-time delivery telemetry</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M0 0 L1200 0 L1200 440 L0 440 Z" fill="#071927"/>
+    <path d="M648 42 L1117 42 C1132.464 42 1145 54.536 1145 70 L1145 370 C1145 385.464 1132.464 398 1117 398 L648 398 C632.536 398 620 385.464 620 370 L620 70 C620 54.536 632.536 42 648 42 Z" fill="#0a2234"/>
+    <path d="M660 112 L1105 112 M660 180 L1105 180 M660 248 L1105 248 M660 316 L1105 316 M718 72 L718 366 M798 72 L798 366 M878 72 L878 366 M958 72 L958 366 M1038 72 L1038 366" fill="none" stroke="#153447" stroke-miterlimit="10"/>
+    <path d="M665 306 C735 306 750 219 797 219 C844 219 843 151 898 151 C953 151 949 281 1000 281 C1051 281 1046 123 1110 104" fill="none" stroke="#14394c" stroke-width="18" stroke-miterlimit="10"/>
+    <path d="M665 306 C735 306 750 219 797 219 C844 219 843 151 898 151 C953 151 949 281 1000 281 C1051 281 1046 123 1110 104" fill="none" stroke="#35e0be" stroke-width="6" stroke-miterlimit="10"/>
+    <path d="M96 112 L138 112 C153.464 112 166 124.536 166 140 L166 182 C166 197.464 153.464 210 138 210 L96 210 C80.536 210 68 197.464 68 182 L68 140 C68 124.536 80.536 112 96 112 Z" fill="#10364a" stroke="#1c5261" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M91 174 L111 150 L130 166 L149 137" fill="none" stroke="#42e5c3" stroke-width="5" stroke-miterlimit="10"/>
+    <path d="M84 174 C84 170.134 87.134 167 91 167 C94.866 167 98 170.134 98 174 C98 177.866 94.866 181 91 181 C87.134 181 84 177.866 84 174 Z" fill="#e8fff9"/>
+    <path d="M104 150 C104 146.134 107.134 143 111 143 C114.866 143 118 146.134 118 150 C118 153.866 114.866 157 111 157 C107.134 157 104 153.866 104 150 Z" fill="#e8fff9"/>
+    <path d="M123 166 C123 162.134 126.134 159 130 159 C133.866 159 137 162.134 137 166 C137 169.866 133.866 173 130 173 C126.134 173 123 169.866 123 166 Z" fill="#e8fff9"/>
+    <path d="M142 137 C142 133.134 145.134 130 149 130 C152.866 130 156 133.134 156 137 C156 140.866 152.866 144 149 144 C145.134 144 142 140.866 142 137 Z" fill="#e8fff9"/>
+    <text transform="matrix(1 0 0 1 68 78)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="15" fill="#69dccb"><tspan x="0" y="0">LAST-MILE TELEMETRY / API PLATFORM</tspan></text>
+    <text transform="matrix(1 0 0 1 194 164)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="66" fill="#f3f8fc"><tspan x="0" y="0">GeoTracker</tspan></text>
+    <text transform="matrix(1 0 0 1 198 207)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="23" fill="#a8bdca"><tspan x="0" y="0">Real-time delivery intelligence</tspan></text>
+    <path d="M82 266 L196 266 C203.732 266 210 272.268 210 280 L210 294 C210 301.732 203.732 308 196 308 L82 308 C74.268 308 68 301.732 68 294 L68 280 C68 272.268 74.268 266 82 266 Z" fill="#10364a"/>
+    <text transform="matrix(1 0 0 1 88 293)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="15" fill="#d8e8ef"><tspan x="0" y="0">FASTIFY</tspan></text>
+    <path d="M235 266 L349 266 C356.732 266 363 272.268 363 280 L363 294 C363 301.732 356.732 308 349 308 L235 308 C227.268 308 221 301.732 221 294 L221 280 C221 272.268 227.268 266 235 266 Z" fill="#10364a"/>
+    <text transform="matrix(1 0 0 1 242 293)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="15" fill="#d8e8ef"><tspan x="0" y="0">POSTGIS</tspan></text>
+    <path d="M388 266 L534 266 C541.732 266 548 272.268 548 280 L548 294 C548 301.732 541.732 308 534 308 L388 308 C380.268 308 374 301.732 374 294 L374 280 C374 272.268 380.268 266 388 266 Z" fill="#10364a"/>
+    <text transform="matrix(1 0 0 1 392 293)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="15" fill="#d8e8ef"><tspan x="0" y="0">WEBSOCKETS</tspan></text>
+    <text transform="matrix(1 0 0 1 68 365)" x="0" y="0" xml:space="preserve" font-family="Inter" font-size="14" fill="#708b9d"><tspan x="0" y="0">RAW GPS  •  SNAP-TO-ROUTE  •  SECURE BROADCAST</tspan></text>
+    <path d="M781 219 C781 210.163 788.163 203 797 203 C805.837 203 813 210.163 813 219 C813 227.837 805.837 235 797 235 C788.163 235 781 227.837 781 219 Z" fill="#0a2234" stroke="#35e0be" stroke-width="4" stroke-miterlimit="10"/>
+    <path d="M886 152 C886 144.82 891.82 139 899 139 C906.18 139 912 144.82 912 152 C912 159.18 906.18 165 899 165 C891.82 165 886 159.18 886 152 Z" fill="#0a2234" stroke="#35e0be" stroke-width="4" stroke-miterlimit="10"/>
+    <path d="M987 281 C987 273.82 992.82 268 1000 268 C1007.18 268 1013 273.82 1013 281 C1013 288.18 1007.18 294 1000 294 C992.82 294 987 288.18 987 281 Z" fill="#0a2234" stroke="#35e0be" stroke-width="4" stroke-miterlimit="10"/>
+    <path d="M1087 102 C1087 90.402 1096.402 81 1108 81 C1119.598 81 1129 90.402 1129 102 C1129 113.598 1119.598 123 1108 123 C1096.402 123 1087 113.598 1087 102 Z" fill="#35e0be"/>
+    <path d="M1098 102 C1098 96.477 1102.477 92 1108 92 C1113.523 92 1118 96.477 1118 102 C1118 107.523 1113.523 112 1108 112 C1102.477 112 1098 107.523 1098 102 Z" fill="#071927"/>
+  </g>
+</svg>

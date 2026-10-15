@@ -1,5 +1,10 @@
 # GeoTracker API
 
+<p align="center">
+  <img src="docs/public/geotracker-banner-preview.png" alt="GeoTracker banner: real-time delivery telemetry with a PostGIS route and live position markers" width="100%">
+  <br><sub>Original artwork generated with VectorCraft · <a href="docs/public/geotracker-banner.svg">editable SVG source</a></sub>
+</p>
+
 > **PT-BR:** API de telemetria em tempo real para operações de entrega last-mile, com Fastify, TypeScript, PostgreSQL/PostGIS, JWT M2M e WebSockets.
 >
 > **EN-US:** Real-time telemetry API for last-mile delivery operations, built with Fastify, TypeScript, PostgreSQL/PostGIS, M2M JWT, and WebSockets.
